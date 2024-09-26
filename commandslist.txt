@@ -1076,3 +1076,176 @@
   171  2024-09-26 08:09:43 export HISTTIMEFORMAT="%F %T "
   172  2024-09-26 08:09:56 source ~/.bashrc
   173  2024-09-26 08:10:09 history > commandslist.txt
+    1  2024-09-26 07:35:32 ebd
+    2  2024-09-26 07:35:32 end
+    3  2024-09-26 07:35:32 close
+    4  2024-09-26 07:35:32 logout
+    5  2024-09-26 07:35:32 pwd
+    6  2024-09-26 07:35:32 sudo -i
+    7  2024-09-26 07:35:32 sudo systemctl restart sshd
+    8  2024-09-26 07:35:32 sudo -i
+    9  2024-09-26 07:35:32 logout
+   10  2024-09-26 07:35:32 sudo -i
+   11  2024-09-26 07:35:32 logut
+   12  2024-09-26 07:35:32 logout
+   13  2024-09-26 07:35:32 sudo -i
+   14  2024-09-26 07:35:32 logout
+   15  2024-09-26 07:35:32 sudo -i
+   16  2024-09-26 07:35:32 logout
+   17  2024-09-26 07:35:32 sudo -i
+   18  2024-09-26 07:35:32 logout
+   19  2024-09-26 07:35:32 sudo su
+   20  2024-09-26 07:35:32 sudo -i
+   21  2024-09-26 07:35:32 logout
+   22  2024-09-26 07:35:32 sudo -i
+   23  2024-09-26 07:35:32 logout
+   24  2024-09-26 07:35:32 sudo -i
+   25  2024-09-26 07:35:32 logout
+   26  2024-09-26 07:35:32 sudo -i
+   27  2024-09-26 07:35:32 logout
+   28  2024-09-26 07:35:32 sudo su kavin1
+   29  2024-09-26 07:35:32 sudo su
+   30  2024-09-26 07:35:32 sudo -i
+   31  2024-09-26 07:35:32 logout
+   32  2024-09-26 07:35:32 sudo -i
+   33  2024-09-26 07:35:32 sudo su kavin1
+   34  2024-09-26 07:35:32 ll
+   35  2024-09-26 07:35:32 cd ..
+   36  2024-09-26 07:35:32 ll
+   37  2024-09-26 07:35:32 cd kavin1
+   38  2024-09-26 07:35:32 cd /etc/ssh
+   39  2024-09-26 07:35:32 ll
+   40  2024-09-26 07:35:32 vi ssh_config
+   41  2024-09-26 07:35:32 chmod 777 sshd_config
+   42  2024-09-26 07:35:32 sudo chmod 777 sshd_config
+   43  2024-09-26 07:35:32 chmod 600 sshd_config
+   44  2024-09-26 07:35:32 sudo chmod 600 sshd_config
+   45  2024-09-26 07:35:32 ll
+   46  2024-09-26 07:35:32 sudo -i
+   47  2024-09-26 07:35:32 exit
+   48  2024-09-26 07:35:32 sudo /etc/ssh/sshd_config
+   49  2024-09-26 07:35:32 sudo -i
+   50  2024-09-26 07:35:32 exite
+   51  2024-09-26 07:35:32 exit
+   52  2024-09-26 07:35:32 clear
+   53  2024-09-26 07:35:32 sudo yum update -y
+   54  2024-09-26 07:35:32 sudo yum install java-17-openjdk
+   55  2024-09-26 07:35:32 ssudo yum remove java-17-openjdudo yum install java-21-openjdk
+   56  2024-09-26 07:35:32 rpm -e jre--fcs
+   57  2024-09-26 07:35:32 ls
+   58  2024-09-26 07:35:32 ls -a
+   59  2024-09-26 07:35:32 /java
+   60  2024-09-26 07:35:32 /ec2-user/java
+   61  2024-09-26 07:35:32 ls -a
+   62  2024-09-26 07:35:32 ls
+   63  2024-09-26 07:35:32 java --versionn
+   64  2024-09-26 07:35:32 java --version
+   65  2024-09-26 07:35:32 sudo yum update
+   66  2024-09-26 07:35:32 sudo yum upgrade bellsoft-java21
+   67  2024-09-26 07:35:32 apk update
+   68  2024-09-26 07:35:32 sudo apt-get update
+   69  2024-09-26 07:35:32 sdk upgrade java
+   70  2024-09-26 07:35:32 sudo yum update
+   71  2024-09-26 07:35:32 rhc
+   72  2024-09-26 07:35:32 wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+   73  2024-09-26 07:35:32 sudo yum install wget
+   74  2024-09-26 07:35:32 wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+   75  2024-09-26 07:35:32 java --version
+   76  2024-09-26 07:35:32 sudo update-alternatives--config'java'
+   77  2024-09-26 07:35:32 sudo update-alternatives --config'java'
+   78  2024-09-26 07:35:32 wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   79  2024-09-26 07:35:32 java --version
+   80  2024-09-26 07:35:32 sudo yum remove java-17-openjdk
+   81  2024-09-26 07:35:32 java -version
+   82  2024-09-26 07:35:32 sudo update-alternatives --config java
+   83  2024-09-26 07:35:32 java -version
+   84  2024-09-26 07:35:32 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   85  2024-09-26 07:35:32 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   86  2024-09-26 07:35:32  wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   87  2024-09-26 07:35:32 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   88  2024-09-26 07:35:32 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   89  2024-09-26 07:35:32  wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+   90  2024-09-26 07:35:32 ls -al
+   91  2024-09-26 07:35:32 sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+   92  2024-09-26 07:35:32 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   93  2024-09-26 07:35:32 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   94  2024-09-26 07:35:32 ls -al
+   95  2024-09-26 07:35:32 wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   96  2024-09-26 07:35:32 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   97  2024-09-26 07:35:32 free -m
+   98  2024-09-26 07:35:32 sudo /etc/init.d/oracle-xe-21c configre
+   99  2024-09-26 07:35:32 sudo /etc/init.d/oracle-xe-21c configure
+  100  2024-09-26 07:35:32 cat /opt/oracle/cfgtoollogs/dbca
+  101  2024-09-26 07:35:32 vi /opt/oracle/cfgtoollogs/dbca
+  102  2024-09-26 07:35:32 cd /opt
+  103  2024-09-26 07:35:32 cd oracle
+  104  2024-09-26 07:35:32 cd product/21c/dbhmoeXE/cv/admin
+  105  2024-09-26 07:35:32 cd product
+  106  2024-09-26 07:35:32 cd 21c
+  107  2024-09-26 07:35:32 cd dbhmoeXE
+  108  2024-09-26 07:35:32 ls -al
+  109  2024-09-26 07:35:32 cd dbhomeXE
+  110  2024-09-26 07:35:32 cd cv
+  111  2024-09-26 07:35:32 cd admin
+  112  2024-09-26 07:35:32 sudo vi cvu_config
+  113  2024-09-26 07:35:32 sudo /etc/init.d/oracle-xe-21c configure
+  114  2024-09-26 07:35:32 sqlplus
+  115  2024-09-26 07:35:32 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+  116  2024-09-26 07:35:32 export ORACLE_SID=XE
+  117  2024-09-26 07:35:32 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+  118  2024-09-26 07:35:32 sqlplus
+  119  2024-09-26 07:35:32 ls -a
+  120  2024-09-26 07:35:32 vi .bash_profile
+  121  2024-09-26 07:35:32 source ~/.bash_profile
+  122  2024-09-26 07:35:32 sqlplus
+  123  2024-09-26 07:35:32 vi .bash_profile
+  124  2024-09-26 07:35:32 sud -i
+  125  2024-09-26 07:35:32 sudo -i
+  126  2024-09-26 07:35:32 pscp -i racle-webserver-key-pair-converted-file.ppk classicmodels.dmp ec2-user@13.60.88.227:/home/ec2-user/
+  127  2024-09-26 07:35:32 ls
+  128  2024-09-26 07:35:32 sudo -i
+  129  2024-09-26 07:35:32 cd ~
+  130  2024-09-26 07:35:32 imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels.dmp log=/home/dheeraj/import.log FULL=Y
+  131  2024-09-26 07:35:32 imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels.dmp log=/home/ec2-user/import.log FULL=Y
+  132  2024-09-26 07:35:32 ls -a
+  133  2024-09-26 07:35:32 cd /opt/oracle/product/21c/dbhomeXE/bin
+  134  2024-09-26 07:35:32 pwd
+  135  2024-09-26 07:35:32 imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels.dmp log=/home/ec2-user/import.log FULL=Y
+  136  2024-09-26 07:35:32 sudo service oracle-xe-21c start
+  137  2024-09-26 07:35:36 history
+  138  2024-09-26 07:35:46 cd -a
+  139  2024-09-26 07:35:53 ls 
+  140  2024-09-26 07:35:57 ls -a
+  141  2024-09-26 07:36:05 history
+  142  2024-09-26 07:36:14 cd
+  143  2024-09-26 07:36:37 mkdir cron_job
+  144  2024-09-26 07:36:44 cd cron_job
+  145  2024-09-26 07:37:13 vi update_history_git.sh
+  146  2024-09-26 07:45:41 git clone https://github.com/kav6778/Training_biz.git
+  147  2024-09-26 07:45:48 git init
+  148  2024-09-26 07:46:32 sudo apt install git -y
+  149  2024-09-26 07:46:41 sudo apt update
+  150  2024-09-26 07:48:28 sudo apt-get update
+  151  2024-09-26 07:48:36 sudo apt-get install git
+  152  2024-09-26 07:48:43 git --version
+  153  2024-09-26 07:49:22 sudo yum update -y
+  154  2024-09-26 07:51:36 sudo yum install git -y
+  155  2024-09-26 07:52:03 git --version
+  156  2024-09-26 07:52:15 git clone https://github.com/kav6778/Training_biz.git
+  157  2024-09-26 07:52:24 ls
+  158  2024-09-26 07:53:00 cd Training_biz
+  159  2024-09-26 07:53:05 ls
+  160  2024-09-26 07:54:06 vi commandslist.txt
+  161  2024-09-26 07:54:29 git add -a
+  162  2024-09-26 07:54:46 git add commandslist.txt
+  163  2024-09-26 07:54:59 git commit -m "$(date '+%Y-%m-%d %H:%M:%S')"
+  164  2024-09-26 07:55:30 git push origin main
+  165  2024-09-26 08:02:57 git remote set-url origin https://kav6778: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@github.com/kav6778/Training_biz.git
+  166  2024-09-26 08:03:04 git push origin main
+  167  2024-09-26 08:03:36 cd ~
+  168  2024-09-26 08:03:42 ls
+  169  2024-09-26 08:03:53 cd cron_job
+  170  2024-09-26 08:04:11 vi update_history_git.sh
+  171  2024-09-26 08:09:43 export HISTTIMEFORMAT="%F %T "
+  172  2024-09-26 08:09:56 source ~/.bashrc
+  173  2024-09-26 08:10:09 history > commandslist.txt
